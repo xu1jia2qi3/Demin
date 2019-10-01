@@ -25,7 +25,7 @@ module.exports = {
             title: `Facebook`,
             href: `https://www.facebook.com/profile.php?id=100009974165746`
           }
-        ]
+        ]        
       },
     },
     {
